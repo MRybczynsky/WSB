@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\PP_03(pętle)\PP03\PP03\bin\Debug\netcoreapp3.0\PP03.exe
+C:\Users\Student\Desktop\PP_03(pętle)\PP03\PP03\bin\Debug\netcoreapp3.0\PP03.deps.json
+C:\Users\Student\Desktop\PP_03(pętle)\PP03\PP03\bin\Debug\netcoreapp3.0\PP03.runtimeconfig.json
+C:\Users\Student\Desktop\PP_03(pętle)\PP03\PP03\bin\Debug\netcoreapp3.0\PP03.runtimeconfig.dev.json
+C:\Users\Student\Desktop\PP_03(pętle)\PP03\PP03\bin\Debug\netcoreapp3.0\PP03.dll
+C:\Users\Student\Desktop\PP_03(pętle)\PP03\PP03\bin\Debug\netcoreapp3.0\PP03.pdb
+C:\Users\Student\Desktop\PP_03(pętle)\PP03\PP03\obj\Debug\netcoreapp3.0\PP03.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\PP_03(pętle)\PP03\PP03\obj\Debug\netcoreapp3.0\PP03.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\PP_03(pętle)\PP03\PP03\obj\Debug\netcoreapp3.0\PP03.AssemblyInfo.cs
+C:\Users\Student\Desktop\PP_03(pętle)\PP03\PP03\obj\Debug\netcoreapp3.0\PP03.dll
+C:\Users\Student\Desktop\PP_03(pętle)\PP03\PP03\obj\Debug\netcoreapp3.0\PP03.pdb
