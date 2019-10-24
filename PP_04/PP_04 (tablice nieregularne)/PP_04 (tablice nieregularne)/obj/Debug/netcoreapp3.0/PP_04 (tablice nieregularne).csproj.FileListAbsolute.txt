@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\PP_04\PP_04 (tablice nieregularne)\PP_04 (tablice nieregularne)\bin\Debug\netcoreapp3.0\PP_04 (tablice nieregularne).exe
+C:\Users\Student\Desktop\PP_04\PP_04 (tablice nieregularne)\PP_04 (tablice nieregularne)\bin\Debug\netcoreapp3.0\PP_04 (tablice nieregularne).deps.json
+C:\Users\Student\Desktop\PP_04\PP_04 (tablice nieregularne)\PP_04 (tablice nieregularne)\bin\Debug\netcoreapp3.0\PP_04 (tablice nieregularne).runtimeconfig.json
+C:\Users\Student\Desktop\PP_04\PP_04 (tablice nieregularne)\PP_04 (tablice nieregularne)\bin\Debug\netcoreapp3.0\PP_04 (tablice nieregularne).runtimeconfig.dev.json
+C:\Users\Student\Desktop\PP_04\PP_04 (tablice nieregularne)\PP_04 (tablice nieregularne)\bin\Debug\netcoreapp3.0\PP_04 (tablice nieregularne).dll
+C:\Users\Student\Desktop\PP_04\PP_04 (tablice nieregularne)\PP_04 (tablice nieregularne)\bin\Debug\netcoreapp3.0\PP_04 (tablice nieregularne).pdb
+C:\Users\Student\Desktop\PP_04\PP_04 (tablice nieregularne)\PP_04 (tablice nieregularne)\obj\Debug\netcoreapp3.0\PP_04 (tablice nieregularne).csprojAssemblyReference.cache
+C:\Users\Student\Desktop\PP_04\PP_04 (tablice nieregularne)\PP_04 (tablice nieregularne)\obj\Debug\netcoreapp3.0\PP_04 (tablice nieregularne).AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\PP_04\PP_04 (tablice nieregularne)\PP_04 (tablice nieregularne)\obj\Debug\netcoreapp3.0\PP_04 (tablice nieregularne).AssemblyInfo.cs
+C:\Users\Student\Desktop\PP_04\PP_04 (tablice nieregularne)\PP_04 (tablice nieregularne)\obj\Debug\netcoreapp3.0\PP_04 (tablice nieregularne).dll
+C:\Users\Student\Desktop\PP_04\PP_04 (tablice nieregularne)\PP_04 (tablice nieregularne)\obj\Debug\netcoreapp3.0\PP_04 (tablice nieregularne).pdb

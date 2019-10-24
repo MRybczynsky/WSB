@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\PP_04 (tablce wielowymiarowe)\PP_04 (tablce wielowymiarowe)\obj\Debug\netcoreapp3.0\PP_04 (tablce wielowymiarowe).csprojAssemblyReference.cache
+C:\Users\Student\source\repos\PP_04 (tablce wielowymiarowe)\PP_04 (tablce wielowymiarowe)\obj\Debug\netcoreapp3.0\PP_04 (tablce wielowymiarowe).AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\PP_04 (tablce wielowymiarowe)\PP_04 (tablce wielowymiarowe)\obj\Debug\netcoreapp3.0\PP_04 (tablce wielowymiarowe).AssemblyInfo.cs
+C:\Users\Student\source\repos\PP_04 (tablce wielowymiarowe)\PP_04 (tablce wielowymiarowe)\bin\Debug\netcoreapp3.0\PP_04 (tablce wielowymiarowe).exe
+C:\Users\Student\source\repos\PP_04 (tablce wielowymiarowe)\PP_04 (tablce wielowymiarowe)\bin\Debug\netcoreapp3.0\PP_04 (tablce wielowymiarowe).deps.json
+C:\Users\Student\source\repos\PP_04 (tablce wielowymiarowe)\PP_04 (tablce wielowymiarowe)\bin\Debug\netcoreapp3.0\PP_04 (tablce wielowymiarowe).runtimeconfig.json
+C:\Users\Student\source\repos\PP_04 (tablce wielowymiarowe)\PP_04 (tablce wielowymiarowe)\bin\Debug\netcoreapp3.0\PP_04 (tablce wielowymiarowe).runtimeconfig.dev.json
+C:\Users\Student\source\repos\PP_04 (tablce wielowymiarowe)\PP_04 (tablce wielowymiarowe)\bin\Debug\netcoreapp3.0\PP_04 (tablce wielowymiarowe).dll
+C:\Users\Student\source\repos\PP_04 (tablce wielowymiarowe)\PP_04 (tablce wielowymiarowe)\bin\Debug\netcoreapp3.0\PP_04 (tablce wielowymiarowe).pdb
+C:\Users\Student\source\repos\PP_04 (tablce wielowymiarowe)\PP_04 (tablce wielowymiarowe)\obj\Debug\netcoreapp3.0\PP_04 (tablce wielowymiarowe).dll
+C:\Users\Student\source\repos\PP_04 (tablce wielowymiarowe)\PP_04 (tablce wielowymiarowe)\obj\Debug\netcoreapp3.0\PP_04 (tablce wielowymiarowe).pdb

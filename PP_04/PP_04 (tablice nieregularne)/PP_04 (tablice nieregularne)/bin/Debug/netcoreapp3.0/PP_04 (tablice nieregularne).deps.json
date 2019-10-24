@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "PP_04 (tablice nieregularne)/1.0.0": {
+        "runtime": {
+          "PP_04 (tablice nieregularne).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PP_04 (tablice nieregularne)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
