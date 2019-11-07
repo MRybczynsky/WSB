@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\PP_05\PP_05 tab\PP_05 tab\bin\Debug\PP_05 tab.exe.config
+C:\Users\Student\Desktop\PP_05\PP_05 tab\PP_05 tab\bin\Debug\PP_05 tab.exe
+C:\Users\Student\Desktop\PP_05\PP_05 tab\PP_05 tab\bin\Debug\PP_05 tab.pdb
+C:\Users\Student\Desktop\PP_05\PP_05 tab\PP_05 tab\obj\Debug\PP_05 tab.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\PP_05\PP_05 tab\PP_05 tab\obj\Debug\PP_05 tab.exe
+C:\Users\Student\Desktop\PP_05\PP_05 tab\PP_05 tab\obj\Debug\PP_05 tab.pdb

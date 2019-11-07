@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\PP_05\PP_05 wyjatki_2\PP_05 wyjatki_2\bin\Debug\PP_05 wyjatki_2.exe.config
+C:\Users\Student\Desktop\PP_05\PP_05 wyjatki_2\PP_05 wyjatki_2\bin\Debug\PP_05 wyjatki_2.exe
+C:\Users\Student\Desktop\PP_05\PP_05 wyjatki_2\PP_05 wyjatki_2\bin\Debug\PP_05 wyjatki_2.pdb
+C:\Users\Student\Desktop\PP_05\PP_05 wyjatki_2\PP_05 wyjatki_2\obj\Debug\PP_05 wyjatki_2.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\PP_05\PP_05 wyjatki_2\PP_05 wyjatki_2\obj\Debug\PP_05 wyjatki_2.exe
+C:\Users\Student\Desktop\PP_05\PP_05 wyjatki_2\PP_05 wyjatki_2\obj\Debug\PP_05 wyjatki_2.pdb
