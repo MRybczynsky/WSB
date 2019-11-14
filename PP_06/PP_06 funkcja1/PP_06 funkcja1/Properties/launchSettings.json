@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "PP_06 funkcja1": {
+      "commandName": "Project",
+      "commandLineArgs": "3,5",
+      "environmentVariables": {
+        "Klucz": "Wartość"
+      },
+      "nativeDebugging": true
+    }
+  }
+}
