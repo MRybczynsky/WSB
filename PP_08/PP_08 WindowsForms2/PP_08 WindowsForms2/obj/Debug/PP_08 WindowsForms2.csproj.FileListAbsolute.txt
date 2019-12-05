@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\PP_08\PP_08 WindowsForms2\PP_08 WindowsForms2\bin\Debug\PP_08 WindowsForms2.exe.config
+C:\Users\Student\Desktop\PP_08\PP_08 WindowsForms2\PP_08 WindowsForms2\bin\Debug\PP_08 WindowsForms2.exe
+C:\Users\Student\Desktop\PP_08\PP_08 WindowsForms2\PP_08 WindowsForms2\bin\Debug\PP_08 WindowsForms2.pdb
+C:\Users\Student\Desktop\PP_08\PP_08 WindowsForms2\PP_08 WindowsForms2\obj\Debug\PP_08 WindowsForms2.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\PP_08\PP_08 WindowsForms2\PP_08 WindowsForms2\obj\Debug\PP_08_WindowsForms2.Form1.resources
+C:\Users\Student\Desktop\PP_08\PP_08 WindowsForms2\PP_08 WindowsForms2\obj\Debug\PP_08_WindowsForms2.Properties.Resources.resources
+C:\Users\Student\Desktop\PP_08\PP_08 WindowsForms2\PP_08 WindowsForms2\obj\Debug\PP_08 WindowsForms2.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\PP_08\PP_08 WindowsForms2\PP_08 WindowsForms2\obj\Debug\PP_08 WindowsForms2.exe
+C:\Users\Student\Desktop\PP_08\PP_08 WindowsForms2\PP_08 WindowsForms2\obj\Debug\PP_08 WindowsForms2.pdb
